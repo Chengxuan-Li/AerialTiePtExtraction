@@ -1,0 +1,6 @@
+Exit with code 1 
+Generated from line 202  of file C:\Users\liche\PycharmProjects\AerialTiePtExtraction\micmac\src\util\error.cpp 
+PID=50692
+Context=[cEliseFatalErrorHandler::cEFEH_OnErreur]
+GMEC:mes=Empty list for StdGetListOfFile (one of the input file name is wrong) line=2770 file=C:\Users\liche\PycharmProjects\AerialTiePtExtraction\micmac\src\photogram\ChantierNameAssoc.cpp
+MM3D-Command=["mm3d" "Tapioca" "MulScale" "5k_1932ab.png" "500" "1700" "PostFix=_1932" ]
